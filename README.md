@@ -1,5 +1,5 @@
 # police-data
-This folder contains the data used to analyze trends in police shootings and other killings by police. Four databases were obtained to evaluate these trends:
+This folder contains the data used to analyze trends in police shootings/killings by police. Four databases were obtained to evaluate these trends:
 1. [Fatal Encounters Database](https://fatalencounters.org/)
 2. [Washington Post Fatal Force Database](https://github.com/washingtonpost/data-police-shootings/blob/master/fatal-police-shootings-data.csv)
 3. [Mapping Police Violence Database](https://mappingpoliceviolence.org/s/MPVDatasetDownload.xlsx)
