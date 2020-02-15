@@ -3,7 +3,7 @@ This folder contains the data used to analyze trends in police shootings/killing
 1. [Fatal Encounters Database](https://fatalencounters.org/)
 2. [Washington Post Fatal Force Database](https://github.com/washingtonpost/data-police-shootings/blob/master/fatal-police-shootings-data.csv)
 3. [Mapping Police Violence Database](https://mappingpoliceviolence.org/s/MPVDatasetDownload.xlsx)
-4. An expanded Police Shootings Database was constructed that includes the total number of police shootings incidents, both fatal and non-fatal, from 2013-2019 as reported by the 30 largest US municipal police agencies via their Data Dashboard/Open Data Portals or as provided via public records request.
+4. An expanded Police Shootings Database was constructed that includes the total number of police shootings incidents, both fatal and non-fatal, from 2013-2019 as reported by the 30 largest US city police agencies via their Data Dashboard/Open Data Portals and documents published online via public records request.
 
 Variables used in the analysis include:
 - *Agency* - the law enforcement agenc(ies) involved in each incident
