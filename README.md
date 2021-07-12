@@ -7,7 +7,7 @@ This folder contains the data used to analyze trends in police shootings/killing
 
 Variables used in the analysis include:
 - *Agency* - the law enforcement agenc(ies) involved in each incident. Since agency info was not included in the WaPo database, agency info was added using the "WaPo ID number" column within the Mapping Police Violence database. 
-- *30 Largest City Agencies* - a variable that identifies whether the police agency involved was the primary law enforcement agency of one of America's 30 largest cities, according to [2018 ACS Population Estimates](https://data.census.gov/cedsci/table?q=United%20States&g=0100000US.160000&tid=ACSDT1Y2018.B01003&hidePreview=true)
+- *100 Largest City Agencies* - a variable that identifies whether the police agency involved was the primary law enforcement agency of one of America's 100 largest cities, according to [2019 ACS Population Estimates](https://data.census.gov/cedsci/table?q=United%20States&g=0100000US.160000&tid=ACSDT1Y2019.B01003&hidePreview=true)
 - *Date of Incident* - used to determine the number of incidents per year.
 - *Geography* - Geographies of police killings were identified as urban, suburban, or rural based on the population density of each incident's zipcode, using the [methodology established by Trulia](http://jedkolko.com/wp-content/uploads/2015/05/full-ZCTA-urban-suburban-rural-classification.xlsx)
 - *Arrests* data were obtained via the 2013-2018 FBI Uniform Crime Reports as listed on the [FBI's Crime Data Explorer website.](https://crime-data-explorer.fr.cloud.gov/explorer/national/united-states/arrest)
